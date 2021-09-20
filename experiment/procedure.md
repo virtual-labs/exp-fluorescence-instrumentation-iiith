@@ -1,6 +1,6 @@
-1. Prepare a 4.1 × 10-6 M fluorescein solution in spectroscopy grade ethanol from a 8.2 × 10-4 M fluorescein stock solution.  
+1. Prepare a 4.1 x 10<sup>-6</sup> M fluorescein solution in spectroscopy grade ethanol from a 8.2 x 10<sup>-4</sup> M fluorescein stock solution.  
 2. Click on the volumetric flask containing the fluorescein solution to take it onto the instrument table.  
-3. Take an all-side-transparent quartz cuvette (path length, 1 cm ×1 cm) by clicking on it.  
+3. Take an all-side-transparent quartz cuvette (path length, 1 cm x 1 cm) by clicking on it.  
 4. Click on the 5 mL-capacity pipette to collect 3 mL of the experimental solution which will be transferred into the quartz cuvette. In real operation, one has to set the volume to 3 mL in the pipette and an appropriate tip should be attached prior to dipping it in the solution.  
 5. Click on the pipette to draw the solution into it.  
 6. Click on the pipette to take it out of the volumetric flask.  

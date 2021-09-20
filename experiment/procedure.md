@@ -24,4 +24,4 @@
 24. Close the lid of the sample chamber by clicking on the lid. 
 25. Click on Reset button to start over the measurements.  
 26. Collect all data by clicking on the Data tab.  
-27. Find out the maximum excitation and emission wavelengths and intensities.
+27. Find out the maximum excitation and emission wavelengths and intensities.  

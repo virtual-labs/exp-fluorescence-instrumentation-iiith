@@ -1,4 +1,4 @@
-- Prepare a 4.1 x 10-6 M fluorescein solution in spectroscopy grade ethanol from a 8.2 x 10-4 M fluorescein stock solution.
+- Prepare a 4.1 x 10<sup>-6</sup> M fluorescein solution in spectroscopy grade ethanol from a 8.2 x 10<sup>-4</sup> M fluorescein stock solution.
 
 - Click on the volumetric flask containing the fluorescein solution to take it onto the instrument table.
 

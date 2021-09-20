@@ -10,7 +10,7 @@
 #### Post-Assignment
 
 1. A quartz cuvette with all sides transparent are used in spectrofluorimetric measurements, unlike the ones for UV-visible spectrophotometric measurements where two opposite sides are transparent. Why?  
-2. Why is the front face or right angle collection geometry used in fluorescence spectroscopy instead of 180° collection geometry that is used in UV-visible absorption spectroscopy?  
+2. Why is the front face or right angle collection geometry used in fluorescence spectroscopy instead of 180<sup>o</sup> collection geometry that is used in UV-visible absorption spectroscopy?  
 3. What collection geometry was used in the present experiment?  
 4. What happens to the emission spectrum when the chosen excitation wavelength lies far away from the actual maximum excitation wavelength?  
 5. "One has to be sure that the solvent blank does not fluoresce in the wavelength range of interest." Why?

@@ -120,13 +120,13 @@ function mouseEvents(){
             this.src='images/hover_manual.png';
         });
         document.getElementById("manual_button").addEventListener("mouseout", function(){
-            this.src='images/manual_button.png';
+            this.src='common_images/manual_button.png';
         });
         document.getElementById("data_button").addEventListener("mouseover", function(){
             this.src='images/hover_data.png';
         });
         document.getElementById("data_button").addEventListener("mouseout", function(){
-            this.src='images/data_button.png';
+            this.src='common_images/data_button.png';
         });
 }
 
@@ -188,16 +188,16 @@ function removeClock() {
 function spectrofluorimeter(){
         if (step_no == 7){
             // Replace the spectrofluorimeter images with the open spectrofluorimeter images
-            images[0] = "images/specfluor_open.png";
-            images[1] = "images/specfluor_open1.png";
+            images[0] = "common_images/specfluor_open.png";
+            images[1] = "common_images/specfluor_open1.png";
             document.getElementById("demo").innerHTML = "Step-No 9: Click on the cuvette to place it in the sample holder of the chamber.";
             cursorPointers('spectrolid_trans_button', 'cuvette');
             step_no++;
         }
         else if(step_no == 9 && count == 9){
             // Replace the spectrofluorimeter images with the closed spectrophotmeter images.
-            images[0] = "images/specfluor_on_redLight.png";
-            images[1] = "images/specfluor_on_no_redLight.png";
+            images[0] = "common_images/specfluor_on_redLight.png";
+            images[1] = "common_images/specfluor_on_no_redLight.png";
             document.getElementById("demo").innerHTML = "Step-No 11: To run the Excitation Spectral Scan, open the measurement set-up screen by clicking on the fluorescence measurement icon on the computer monitor.";
             cursorPointers('spectrolid_trans_button1','comp_trans_button');
             step_no++;

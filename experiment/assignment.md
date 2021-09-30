@@ -1,4 +1,4 @@
-#### Pre-Assignment
+#### Pre-Assignments
 
 1. Why do we need a radiation source of high optical power (that is, a large number of photons per unit time) in spectrofluorimeter?  
 2. Why do we use xenon arc lamp as source in spectrofluorimeter?  
@@ -7,7 +7,7 @@
 5. What are the advantages and the disadvantages of using a laser instead of a lamp as an excitation source?  
 6.  All emission measurements must start far enough above the excitation wavelength. Why? (Hint. Near the excitation wavelength, reflectance, refraction and scattering are high.)  
 
-#### Post-Assignment
+#### Post-Assignments
 
 1. A quartz cuvette with all sides transparent are used in spectrofluorimetric measurements, unlike the ones for UV-visible spectrophotometric measurements where two opposite sides are transparent. Why?  
 2. Why is the front face or right angle collection geometry used in fluorescence spectroscopy instead of 180<sup>o</sup> collection geometry that is used in UV-visible absorption spectroscopy?  

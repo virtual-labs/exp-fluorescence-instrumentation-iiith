@@ -1,7 +1,7 @@
 // This file contains all general functions used in the experiment
     var images = [];// Two images that are alternated in ordered to get the blinking effect of the spectrofluorimeter
-    images[0] = "images/specfluor_on_redLight.png";
-    images[1] = "images/specfluor_on_no_redLight.png";
+    images[0] = "common_images/specfluor_on_redLight.png";
+    images[1] = "common_images/specfluor_on_no_redLight.png";
     var x = 0;
     var y = 0;
     // Variables necessary to obtain motion of all the images

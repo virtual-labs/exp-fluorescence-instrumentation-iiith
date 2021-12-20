@@ -6,4 +6,3 @@
 6. D. M. Jameson et al. in Basic Concepts in Fluorescence, Fluorescence: Basic Concepts, Principles Aspects and some Anecdotes, Methods Enzymol. 2003, 360, 1.
 7. P. Atkins and J. D. Paula, Atkin's Physical Chemistry, 9th Edition, Oxford University Press.  
 8. A. Cook and A. Le , "The Effect of Solvent and pH on the Fluorescence Excitation and Emission Spectra of Solutions Containing Fluorescein", J. Phys. Chem. Lab 2006, 10, 44.  
-9. [Photochem CAD](http://omlc.ogi.edu/spectra/PhotochemCAD/index.html)   
